@@ -100,4 +100,10 @@ Tools Used
 
 2. Power BI
 
-3. GitHub
+   ## Interactive Dashboard
+
+	View the live Power BI dashboard here:
+
+	[Power BI Dashboard](https://app.powerbi.com/groups/me/lineage?actions=highlight%2Cimpact&artifactId=e699f7aa-8a2c-473a-8789-73a9fdb3683d&src=Desktop&experience=power-bi)
+
+4. GitHub
