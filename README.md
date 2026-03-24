@@ -38,7 +38,7 @@ Analysis Performed:
 
 3. Academic Performance Analysis
 
-   Average CGPA by major
+   Average CGPA by Major
 
 	 Ranking majors by performance
 
